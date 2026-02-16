@@ -205,3 +205,19 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# --- Project Specific: Data & Visualizations ---
+# Ignore all synthetic and proprietary data files
+*.csv
+*.xlsx
+*.xls
+*.json
+
+# Ignore generated dashboards (re-run script to see them)
+*.png
+*.jpg
+*.svg
+
+# Explicitly ignore the specific files we generated
+bain_2026_proprietary_data.csv
+bain_2026_final_data.csv
+public_market_comps.csv
