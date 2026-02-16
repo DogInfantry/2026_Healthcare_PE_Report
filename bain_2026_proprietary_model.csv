@@ -1,0 +1,446 @@
+Date,Segment,Region,Deal_Value_Billion,Revenue_Growth_Pct,EBITDA_Margin_Pct,Rule_of_X,Deal_Type,Sub_Vertical,Client_Type,GenAI_Enabled
+2025-05-11,Biopharma,North America,0.036,7.9,20.4,28.2,Buyout,Urology,Large Cap Pharma,
+2025-05-02,Biopharma,Europe,0.15,7.6,17.9,25.4,Carve-out,Neurology,Biotech,
+2025-08-18,Biopharma,North America,0.115,13.4,18.1,31.5,Sponsor-to-Sponsor,General/Other,Biotech,
+2025-05-20,Biopharma,North America,0.227,10.9,7.6,18.5,Buyout,Neurology,Large Cap Pharma,
+2025-09-16,Biopharma,North America,0.009,4.3,11.6,15.9,Sponsor-to-Sponsor,Oncology,Large Cap Pharma,
+2025-02-12,Biopharma,North America,0.081,13.3,20.4,33.7,Buyout,General/Other,Large Cap Pharma,
+2025-09-11,Biopharma,Europe,0.26,10.2,16.9,27.1,Buyout,Urology,Biotech,
+2025-01-08,Biopharma,Asia-Pacific,0.642,13.6,14.0,27.6,Carve-out,General/Other,Biotech,
+2025-07-11,Biopharma,Europe,0.614,10.3,13.7,23.9,Sponsor-to-Sponsor,Oncology,Biotech,
+2025-05-17,Biopharma,North America,0.284,12.1,5.4,17.5,Take-Private,Oncology,Biotech,
+2025-05-29,Biopharma,North America,0.026,5.2,22.3,27.5,Sponsor-to-Sponsor,Neurology,Biotech,
+2025-07-27,Biopharma,North America,0.407,10.3,14.6,24.9,Take-Private,Urology,Large Cap Pharma,
+2025-03-08,Biopharma,Europe,0.84,8.3,19.2,27.5,Sponsor-to-Sponsor,General/Other,Large Cap Pharma,
+2025-08-23,Biopharma,Europe,0.483,12.7,18.8,31.5,Buyout,Urology,Large Cap Pharma,
+2025-01-01,Biopharma,Europe,2.106,16.5,18.6,35.0,Take-Private,Oncology,Large Cap Pharma,
+2025-06-01,Biopharma,Europe,0.02,7.5,14.9,22.4,Buyout,Neurology,Large Cap Pharma,
+2025-01-18,Biopharma,Europe,0.297,9.5,20.2,29.8,Carve-out,Neurology,Large Cap Pharma,
+2025-11-14,Biopharma,Europe,1.396,11.3,10.7,22.0,Buyout,Oncology,Large Cap Pharma,
+2025-08-16,Biopharma,North America,0.022,9.5,18.8,28.2,Sponsor-to-Sponsor,General/Other,Large Cap Pharma,
+2025-10-01,Biopharma,North America,0.823,6.1,24.6,30.7,Sponsor-to-Sponsor,Urology,Biotech,
+2025-03-02,Biopharma,Europe,0.047,14.4,19.0,33.4,Buyout,General/Other,Large Cap Pharma,
+2025-01-03,Biopharma,North America,0.045,11.8,6.8,18.7,Buyout,Urology,Biotech,
+2025-08-18,Biopharma,North America,0.305,10.9,10.2,21.0,Buyout,Neurology,Biotech,
+2025-10-09,Biopharma,North America,1.832,12.7,8.2,20.8,Buyout,General/Other,Large Cap Pharma,
+2025-11-10,Biopharma,North America,0.403,7.5,21.3,28.8,Carve-out,Oncology,Biotech,
+2025-07-07,Biopharma,North America,0.352,5.8,5.5,11.2,Sponsor-to-Sponsor,Neurology,Large Cap Pharma,
+2025-08-12,Biopharma,North America,0.122,11.0,12.9,23.9,Take-Private,Oncology,Biotech,
+2025-08-11,Biopharma,North America,0.144,9.5,11.9,21.4,Sponsor-to-Sponsor,General/Other,Large Cap Pharma,
+2025-01-12,Biopharma,Asia-Pacific,0.047,8.9,10.8,19.7,Sponsor-to-Sponsor,General/Other,Biotech,
+2025-06-23,Biopharma,Europe,0.079,10.1,15.4,25.5,Buyout,Oncology,Large Cap Pharma,
+2025-10-21,Biopharma,Asia-Pacific,0.002,6.1,13.2,19.3,Buyout,General/Other,Large Cap Pharma,
+2025-05-06,Biopharma,Europe,16.159,3.8,28.8,32.6,Buyout,Neurology,Large Cap Pharma,
+2025-02-13,Biopharma,North America,0.267,9.7,9.3,19.0,Buyout,Neurology,Large Cap Pharma,
+2025-01-24,Biopharma,North America,0.262,9.8,17.0,26.8,Buyout,General/Other,Large Cap Pharma,
+2025-01-09,Biopharma,North America,0.299,5.7,11.8,17.5,Buyout,Oncology,Biotech,
+2025-11-07,Biopharma,Europe,0.29,11.2,13.1,24.2,Sponsor-to-Sponsor,Urology,Large Cap Pharma,
+2025-10-12,Biopharma,Europe,0.028,11.3,16.4,27.7,Take-Private,General/Other,Biotech,
+2025-08-07,Biopharma,North America,0.587,11.5,22.3,33.8,Carve-out,General/Other,Large Cap Pharma,
+2025-08-25,Biopharma,North America,0.103,8.7,16.3,24.9,Buyout,Urology,Large Cap Pharma,
+2025-07-18,Biopharma,Europe,0.91,16.8,13.7,30.5,Buyout,Oncology,Large Cap Pharma,
+2025-01-11,Biopharma,Europe,0.145,15.3,12.4,27.7,Sponsor-to-Sponsor,General/Other,Large Cap Pharma,
+2025-09-09,Biopharma,North America,0.023,16.1,18.7,34.7,Buyout,Oncology,Large Cap Pharma,
+2025-04-20,Biopharma,Asia-Pacific,0.695,8.2,8.0,16.2,Buyout,General/Other,Biotech,
+2025-10-14,Biopharma,Europe,0.146,9.5,18.9,28.5,Sponsor-to-Sponsor,General/Other,Large Cap Pharma,
+2025-03-26,Biopharma,Europe,1.999,9.1,29.9,39.0,Take-Private,Urology,Biotech,
+2025-06-28,Biopharma,North America,0.102,6.7,18.2,24.9,Sponsor-to-Sponsor,Urology,Biotech,
+2025-01-13,Biopharma,North America,0.024,15.5,11.9,27.4,Buyout,Neurology,Large Cap Pharma,
+2025-02-05,Biopharma,North America,0.726,9.7,13.8,23.5,Sponsor-to-Sponsor,Urology,Large Cap Pharma,
+2025-08-08,Biopharma,North America,0.029,10.1,10.3,20.3,Sponsor-to-Sponsor,Oncology,Biotech,
+2025-06-12,Biopharma,Europe,3.25,12.9,20.9,33.8,Carve-out,General/Other,Large Cap Pharma,
+2025-06-07,Biopharma,North America,6.208,9.0,21.5,30.5,Buyout,Oncology,Large Cap Pharma,
+2025-02-07,Biopharma,Asia-Pacific,0.373,11.2,7.6,18.8,Sponsor-to-Sponsor,General/Other,Biotech,
+2025-11-20,Biopharma,Europe,0.076,12.4,10.4,22.8,Buyout,Neurology,Large Cap Pharma,
+2025-05-25,Biopharma,Europe,0.808,8.5,17.2,25.8,Sponsor-to-Sponsor,Urology,Biotech,
+2025-10-03,Biopharma,North America,0.024,9.2,5.1,14.4,Sponsor-to-Sponsor,Oncology,Biotech,
+2025-09-18,Biopharma,North America,0.07,10.3,16.8,27.1,Buyout,Oncology,Biotech,
+2025-06-24,Biopharma,Asia-Pacific,0.052,6.3,8.6,14.9,Buyout,General/Other,Biotech,
+2025-08-21,Biopharma,North America,0.211,7.5,20.3,27.8,Buyout,General/Other,Large Cap Pharma,
+2025-09-06,Biopharma,North America,0.428,13.8,19.0,32.8,Carve-out,Urology,Large Cap Pharma,
+2025-08-04,Biopharma,North America,0.009,10.1,21.9,32.0,Sponsor-to-Sponsor,Oncology,Biotech,
+2025-07-23,Biopharma,Asia-Pacific,2.053,14.6,15.7,30.4,Carve-out,Oncology,Large Cap Pharma,
+2025-09-07,Biopharma,North America,0.032,12.5,12.3,24.8,Sponsor-to-Sponsor,Neurology,Biotech,
+2025-04-13,Biopharma,Europe,0.054,12.0,19.4,31.4,Buyout,Urology,Large Cap Pharma,
+2025-11-01,Biopharma,North America,0.148,6.2,24.2,30.4,Sponsor-to-Sponsor,Neurology,Biotech,
+2025-10-18,Biopharma,North America,0.08,8.6,13.8,22.4,Buyout,Urology,Large Cap Pharma,
+2025-09-29,Biopharma,Asia-Pacific,0.777,13.0,14.6,27.6,Sponsor-to-Sponsor,Oncology,Large Cap Pharma,
+2025-03-28,Biopharma,Europe,0.092,8.7,18.3,26.9,Sponsor-to-Sponsor,Oncology,Biotech,
+2025-10-02,Biopharma,Asia-Pacific,0.257,6.2,10.8,17.0,Sponsor-to-Sponsor,General/Other,Large Cap Pharma,
+2025-02-08,Biopharma,North America,0.297,8.0,18.2,26.2,Sponsor-to-Sponsor,Oncology,Biotech,
+2025-02-11,Biopharma,Europe,0.137,10.2,16.6,26.8,Sponsor-to-Sponsor,General/Other,Large Cap Pharma,
+2025-08-19,Biopharma,North America,0.317,9.9,8.6,18.5,Sponsor-to-Sponsor,Oncology,Large Cap Pharma,
+2025-10-28,Biopharma,Europe,0.152,8.4,21.7,30.1,Buyout,General/Other,Large Cap Pharma,
+2025-06-07,Biopharma,Europe,0.222,13.9,10.4,24.4,Take-Private,General/Other,Large Cap Pharma,
+2025-10-10,Biopharma,North America,0.186,9.3,16.6,25.9,Buyout,General/Other,Biotech,
+2025-08-08,Biopharma,North America,0.381,10.5,7.3,17.8,Take-Private,Oncology,Large Cap Pharma,
+2025-06-27,Biopharma,North America,0.18,11.0,24.4,35.3,Take-Private,General/Other,Biotech,
+2025-06-10,Biopharma,Asia-Pacific,0.491,12.4,20.4,32.7,Buyout,Neurology,Large Cap Pharma,
+2025-06-13,Biopharma,North America,1.673,11.4,16.4,27.8,Buyout,Neurology,Biotech,
+2025-01-11,Biopharma,North America,0.052,6.1,19.7,25.9,Buyout,Neurology,Large Cap Pharma,
+2025-06-27,Biopharma,North America,0.259,6.9,18.2,25.1,Buyout,General/Other,Biotech,
+2025-08-10,Biopharma,Asia-Pacific,0.012,12.0,16.2,28.2,Buyout,Oncology,Biotech,
+2025-07-15,Biopharma,Asia-Pacific,0.622,10.2,14.4,24.6,Buyout,Urology,Large Cap Pharma,
+2025-09-30,Biopharma,Europe,0.215,9.6,11.9,21.5,Carve-out,Neurology,Biotech,
+2025-03-21,Biopharma,Europe,0.025,9.5,15.8,25.3,Buyout,Oncology,Large Cap Pharma,
+2025-11-20,Biopharma,Europe,0.63,10.8,14.8,25.6,Sponsor-to-Sponsor,Neurology,Large Cap Pharma,
+2025-04-20,Biopharma,North America,0.112,15.3,12.5,27.8,Buyout,Neurology,Large Cap Pharma,
+2025-03-08,Biopharma,North America,0.697,10.5,23.0,33.5,Buyout,Urology,Biotech,
+2025-10-06,Biopharma,North America,0.047,12.3,22.5,34.8,Buyout,Urology,Biotech,
+2025-11-17,Biopharma,Europe,0.025,5.5,14.3,19.7,Carve-out,Oncology,Large Cap Pharma,
+2025-11-06,Biopharma,Asia-Pacific,0.665,8.5,22.9,31.5,Sponsor-to-Sponsor,General/Other,Large Cap Pharma,
+2025-09-01,Biopharma,North America,0.02,10.8,9.4,20.2,Buyout,General/Other,Biotech,
+2025-06-19,Biopharma,Europe,0.027,6.3,15.4,21.7,Sponsor-to-Sponsor,General/Other,Large Cap Pharma,
+2025-04-22,Biopharma,North America,0.417,13.1,21.6,34.7,Buyout,Neurology,Biotech,
+2025-09-23,Biopharma,Europe,1.084,12.5,20.3,32.8,Sponsor-to-Sponsor,General/Other,Large Cap Pharma,
+2025-03-04,Biopharma,North America,0.049,10.0,22.0,31.9,Buyout,Urology,Large Cap Pharma,
+2025-06-12,Biopharma,North America,0.078,7.4,6.2,13.6,Buyout,General/Other,Large Cap Pharma,
+2025-09-03,Biopharma,North America,0.28,10.2,16.2,26.4,Sponsor-to-Sponsor,Neurology,Large Cap Pharma,
+2025-05-05,Biopharma,Asia-Pacific,0.455,10.3,23.8,34.1,Sponsor-to-Sponsor,General/Other,Large Cap Pharma,
+2025-05-27,Biopharma,Asia-Pacific,0.007,8.4,21.7,30.1,Take-Private,General/Other,Large Cap Pharma,
+2025-05-26,Biopharma,North America,0.517,10.7,15.4,26.1,Sponsor-to-Sponsor,General/Other,Large Cap Pharma,
+2025-05-14,Biopharma,Asia-Pacific,0.52,8.9,18.7,27.6,Sponsor-to-Sponsor,Neurology,Large Cap Pharma,
+2025-10-28,Biopharma,North America,0.011,4.4,14.4,18.8,Carve-out,Oncology,Biotech,
+2025-05-12,Biopharma,North America,0.389,11.2,16.4,27.6,Buyout,Urology,Biotech,
+2025-01-14,Biopharma,North America,0.016,10.2,14.5,24.8,Sponsor-to-Sponsor,Oncology,Large Cap Pharma,
+2025-08-25,Biopharma,North America,0.646,14.6,12.5,27.2,Sponsor-to-Sponsor,Urology,Biotech,
+2025-11-25,Biopharma,Europe,0.05,7.8,13.9,21.7,Buyout,Oncology,Biotech,
+2025-07-09,Biopharma,Europe,0.212,9.0,12.0,21.0,Sponsor-to-Sponsor,Neurology,Large Cap Pharma,
+2025-06-15,Biopharma,Europe,0.416,9.4,10.4,19.8,Sponsor-to-Sponsor,Urology,Large Cap Pharma,
+2025-05-15,Biopharma,Europe,2.104,6.1,14.9,21.0,Buyout,Oncology,Large Cap Pharma,
+2025-07-30,Biopharma,North America,0.175,14.7,18.5,33.1,Buyout,Oncology,Large Cap Pharma,
+2025-11-17,Biopharma,Europe,0.135,11.3,15.1,26.3,Sponsor-to-Sponsor,Oncology,Large Cap Pharma,
+2025-06-30,Biopharma,Europe,0.089,11.6,13.6,25.1,Take-Private,Oncology,Biotech,
+2025-06-16,Biopharma,North America,0.252,10.7,8.4,19.1,Sponsor-to-Sponsor,General/Other,Large Cap Pharma,
+2025-05-26,Biopharma,North America,0.019,8.5,10.5,19.0,Take-Private,Neurology,Large Cap Pharma,
+2025-07-25,Biopharma,North America,0.274,6.1,12.2,18.4,Sponsor-to-Sponsor,Neurology,Large Cap Pharma,
+2025-03-27,Biopharma,North America,6.752,10.7,13.6,24.3,Buyout,Neurology,Biotech,
+2025-01-28,Biopharma,North America,0.581,6.2,16.2,22.3,Buyout,Urology,Biotech,
+2025-04-27,Biopharma,North America,0.458,10.0,12.8,22.9,Buyout,Urology,Large Cap Pharma,
+2025-10-21,Biopharma,North America,0.349,10.0,18.6,28.5,Carve-out,General/Other,Large Cap Pharma,
+2025-07-27,Biopharma,North America,0.078,10.7,15.6,26.3,Buyout,General/Other,Large Cap Pharma,
+2025-11-24,Biopharma,North America,0.389,7.4,3.6,11.0,Buyout,Urology,Large Cap Pharma,
+2025-11-03,Biopharma,Europe,1.269,10.3,2.5,12.8,Carve-out,General/Other,Biotech,
+2025-03-16,Biopharma,North America,1.428,13.9,17.6,31.5,Sponsor-to-Sponsor,Neurology,Biotech,
+2025-09-14,Biopharma,North America,0.102,4.6,10.1,14.7,Sponsor-to-Sponsor,General/Other,Large Cap Pharma,
+2025-08-16,Biopharma,North America,0.223,14.8,11.9,26.7,Sponsor-to-Sponsor,General/Other,Biotech,
+2025-04-10,Biopharma,North America,0.523,11.6,8.0,19.6,Sponsor-to-Sponsor,Oncology,Large Cap Pharma,
+2025-10-23,Biopharma,North America,1.633,6.4,20.7,27.1,Sponsor-to-Sponsor,General/Other,Large Cap Pharma,
+2025-07-17,Biopharma,Asia-Pacific,0.214,11.4,12.4,23.8,Sponsor-to-Sponsor,Urology,Large Cap Pharma,
+2025-10-03,Biopharma,Asia-Pacific,0.305,3.5,2.9,6.4,Sponsor-to-Sponsor,Urology,Large Cap Pharma,
+2025-09-29,Biopharma,Asia-Pacific,0.051,13.9,22.4,36.3,Carve-out,Urology,Large Cap Pharma,
+2025-10-13,Provider,North America,0.069,10.5,18.6,29.2,Carve-out,General,,
+2025-10-23,Provider,North America,0.028,10.2,22.0,32.2,Sponsor-to-Sponsor,Plastic Surgery,,
+2025-10-19,Provider,North America,1.327,9.8,13.5,23.3,Carve-out,Plastic Surgery,,
+2025-11-26,Provider,Europe,0.05,6.5,18.8,25.3,Buyout,Cardiology,,
+2025-03-16,Provider,North America,0.051,8.9,17.2,26.1,Buyout,Nephrology,,
+2025-05-12,Provider,Europe,0.193,12.7,9.1,21.7,Carve-out,Nephrology,,
+2025-04-15,Provider,North America,0.441,9.3,13.6,22.9,Carve-out,Plastic Surgery,,
+2025-02-09,Provider,North America,0.485,7.1,21.7,28.8,Sponsor-to-Sponsor,Plastic Surgery,,
+2025-04-29,Provider,North America,1.217,7.8,17.6,25.4,Carve-out,Plastic Surgery,,
+2025-05-02,Provider,Europe,0.642,9.9,2.9,12.9,Sponsor-to-Sponsor,Behavioral Health,,
+2025-11-25,Provider,North America,0.093,10.0,18.7,28.7,Carve-out,Behavioral Health,,
+2025-03-21,Provider,Asia-Pacific,0.039,8.8,7.6,16.4,Sponsor-to-Sponsor,General,,
+2025-06-19,Provider,North America,0.013,7.6,14.5,22.1,Sponsor-to-Sponsor,Cardiology,,
+2025-08-31,Provider,North America,0.24,5.6,11.3,17.0,Buyout,Nephrology,,
+2025-02-14,Provider,Europe,0.277,7.5,9.3,16.7,Sponsor-to-Sponsor,Behavioral Health,,
+2025-08-12,Provider,North America,0.143,12.6,22.6,35.2,Buyout,Plastic Surgery,,
+2025-10-01,Provider,North America,0.064,14.2,18.0,32.2,Buyout,Nephrology,,
+2025-05-29,Provider,Asia-Pacific,0.118,5.1,16.9,22.0,Buyout,Cardiology,,
+2025-01-10,Provider,Europe,0.393,11.3,25.0,36.3,Sponsor-to-Sponsor,Cardiology,,
+2025-02-24,Provider,Asia-Pacific,0.217,8.8,21.0,29.8,Buyout,Nephrology,,
+2025-09-02,Provider,Europe,0.181,13.3,16.7,30.0,Carve-out,Cardiology,,
+2025-10-10,Provider,North America,0.856,9.3,23.9,33.2,Sponsor-to-Sponsor,General,,
+2025-05-06,Provider,Asia-Pacific,0.152,11.2,19.2,30.4,Sponsor-to-Sponsor,Behavioral Health,,
+2025-07-16,Provider,Europe,1.51,5.3,15.5,20.8,Buyout,Plastic Surgery,,
+2025-10-21,Provider,North America,0.015,17.1,18.7,35.8,Buyout,General,,
+2025-07-24,Provider,Europe,0.073,10.7,11.9,22.5,Sponsor-to-Sponsor,Behavioral Health,,
+2025-07-12,Provider,North America,0.013,7.8,15.7,23.5,Buyout,Nephrology,,
+2025-03-23,Provider,North America,0.154,15.8,19.9,35.7,Sponsor-to-Sponsor,General,,
+2025-06-17,Provider,North America,0.549,8.5,21.6,30.0,Sponsor-to-Sponsor,Behavioral Health,,
+2025-05-12,Provider,North America,0.012,10.3,-4.8,5.5,Buyout,Plastic Surgery,,
+2025-08-10,Provider,North America,0.372,11.4,18.9,30.3,Sponsor-to-Sponsor,Behavioral Health,,
+2025-03-14,Provider,Asia-Pacific,0.279,10.0,13.8,23.8,Buyout,Cardiology,,
+2025-04-03,Provider,Europe,0.029,6.8,17.3,24.1,Sponsor-to-Sponsor,Nephrology,,
+2025-10-20,Provider,North America,0.163,11.6,17.8,29.4,Buyout,Plastic Surgery,,
+2025-05-04,Provider,North America,0.304,5.0,5.8,10.8,Sponsor-to-Sponsor,Behavioral Health,,
+2025-04-18,Provider,Asia-Pacific,0.068,9.5,11.8,21.3,Buyout,General,,
+2025-02-03,Provider,North America,1.572,6.3,18.7,25.0,Carve-out,Cardiology,,
+2025-04-20,Provider,Europe,0.615,7.9,19.8,27.7,Buyout,Plastic Surgery,,
+2025-02-18,Provider,North America,0.711,8.4,11.6,20.0,Buyout,Nephrology,,
+2025-10-03,Provider,North America,0.416,10.3,20.7,31.0,Sponsor-to-Sponsor,Plastic Surgery,,
+2025-06-17,Provider,Europe,0.122,13.7,18.1,31.8,Carve-out,Plastic Surgery,,
+2025-08-23,Provider,North America,0.056,9.2,7.8,17.1,Take-Private,Nephrology,,
+2025-05-19,Provider,North America,0.17,7.7,10.1,17.8,Buyout,General,,
+2025-09-20,Provider,North America,0.441,11.3,15.4,26.7,Buyout,Nephrology,,
+2025-10-09,Provider,Europe,0.224,5.5,20.6,26.1,Sponsor-to-Sponsor,Behavioral Health,,
+2025-10-08,Provider,Europe,0.634,18.6,9.7,28.3,Take-Private,Plastic Surgery,,
+2025-09-29,Provider,North America,0.464,12.2,4.9,17.1,Buyout,Nephrology,,
+2025-04-10,Provider,North America,0.262,7.5,14.9,22.4,Buyout,General,,
+2025-07-25,Provider,North America,0.284,10.1,15.2,25.3,Buyout,Behavioral Health,,
+2025-06-04,Provider,North America,0.416,11.7,11.7,23.5,Buyout,Behavioral Health,,
+2025-01-19,Provider,North America,0.184,15.1,17.2,32.4,Sponsor-to-Sponsor,Cardiology,,
+2025-11-25,Provider,North America,1.019,15.1,13.9,29.0,Carve-out,Nephrology,,
+2025-10-22,Provider,Europe,0.157,9.1,9.2,18.3,Buyout,Nephrology,,
+2025-11-07,Provider,Europe,0.041,8.3,5.8,14.1,Carve-out,Cardiology,,
+2025-08-08,Provider,North America,0.228,10.6,23.5,34.1,Sponsor-to-Sponsor,Nephrology,,
+2025-10-11,Provider,Europe,0.546,13.4,15.7,29.1,Carve-out,General,,
+2025-11-01,Provider,North America,0.025,10.7,9.6,20.3,Sponsor-to-Sponsor,Nephrology,,
+2025-09-04,Provider,North America,9.933,12.1,13.6,25.7,Buyout,Nephrology,,
+2025-01-08,Provider,Europe,0.401,9.4,17.1,26.5,Buyout,Behavioral Health,,
+2025-01-19,Provider,North America,1.428,7.2,10.7,17.8,Sponsor-to-Sponsor,Nephrology,,
+2025-03-17,Provider,North America,0.173,7.2,18.2,25.4,Sponsor-to-Sponsor,Behavioral Health,,
+2025-11-23,Provider,North America,1.262,7.0,17.7,24.7,Sponsor-to-Sponsor,Cardiology,,
+2025-09-27,Provider,Europe,0.173,6.4,12.8,19.2,Sponsor-to-Sponsor,Plastic Surgery,,
+2025-07-17,Provider,Europe,0.078,8.3,9.9,18.2,Carve-out,Behavioral Health,,
+2025-02-10,Provider,North America,1.966,13.8,15.3,29.1,Sponsor-to-Sponsor,Nephrology,,
+2025-06-19,Provider,Europe,0.078,7.9,16.0,24.0,Buyout,Cardiology,,
+2025-07-07,Provider,Europe,0.173,11.1,13.3,24.4,Carve-out,Behavioral Health,,
+2025-07-11,Provider,North America,0.977,9.8,17.3,27.2,Buyout,General,,
+2025-09-01,Provider,North America,0.063,14.0,15.1,29.1,Sponsor-to-Sponsor,Plastic Surgery,,
+2025-05-29,Provider,North America,0.006,12.7,7.9,20.5,Sponsor-to-Sponsor,Cardiology,,
+2025-06-28,Provider,Asia-Pacific,0.284,13.1,15.8,28.9,Buyout,General,,
+2025-01-30,Provider,North America,0.021,13.6,11.0,24.6,Take-Private,Nephrology,,
+2025-08-23,Provider,Europe,2.458,10.3,16.5,26.8,Carve-out,Nephrology,,
+2025-11-20,Provider,North America,0.171,16.2,24.2,40.4,Carve-out,Plastic Surgery,,
+2025-04-29,Provider,Asia-Pacific,0.089,8.1,18.3,26.4,Buyout,Plastic Surgery,,
+2025-06-20,Provider,Europe,0.587,17.3,10.8,28.1,Buyout,Plastic Surgery,,
+2025-02-05,Provider,North America,0.186,11.7,23.5,35.2,Sponsor-to-Sponsor,Cardiology,,
+2025-07-01,Provider,Asia-Pacific,0.248,15.0,26.8,41.9,Take-Private,Cardiology,,
+2025-06-04,Provider,Europe,0.238,6.5,20.6,27.1,Take-Private,Plastic Surgery,,
+2025-10-12,Provider,North America,0.798,10.2,24.1,34.3,Sponsor-to-Sponsor,Nephrology,,
+2025-07-27,Provider,Europe,0.043,11.8,15.8,27.6,Sponsor-to-Sponsor,Behavioral Health,,
+2025-07-29,Provider,Asia-Pacific,0.048,7.4,-5.1,2.4,Sponsor-to-Sponsor,Plastic Surgery,,
+2025-03-04,Provider,North America,0.025,7.3,22.1,29.4,Buyout,Behavioral Health,,
+2025-08-31,Provider,North America,0.158,12.3,10.1,22.4,Buyout,Behavioral Health,,
+2025-08-21,Provider,North America,0.319,9.4,14.2,23.6,Sponsor-to-Sponsor,Nephrology,,
+2025-07-17,Provider,Europe,0.223,10.8,8.4,19.2,Carve-out,Plastic Surgery,,
+2025-05-16,Provider,Europe,0.564,5.7,10.8,16.5,Take-Private,Nephrology,,
+2025-01-03,Provider,Europe,0.355,15.1,14.8,29.9,Take-Private,Plastic Surgery,,
+2025-03-22,Provider,North America,0.069,14.0,10.2,24.2,Buyout,Cardiology,,
+2025-06-06,Provider,Europe,0.275,12.2,13.1,25.4,Carve-out,General,,
+2025-06-17,Provider,Europe,0.008,11.4,13.7,25.1,Sponsor-to-Sponsor,Plastic Surgery,,
+2025-03-24,Provider,North America,2.132,8.6,24.2,32.8,Sponsor-to-Sponsor,Plastic Surgery,,
+2025-01-26,Provider,Europe,0.028,7.6,7.8,15.4,Sponsor-to-Sponsor,Cardiology,,
+2025-09-30,Provider,North America,1.268,13.7,14.6,28.3,Buyout,Nephrology,,
+2025-10-27,Provider,Europe,0.578,14.8,7.7,22.5,Sponsor-to-Sponsor,Plastic Surgery,,
+2025-04-01,Provider,Asia-Pacific,0.07,9.1,5.9,15.0,Buyout,Nephrology,,
+2025-01-05,Provider,North America,0.074,15.8,14.5,30.3,Sponsor-to-Sponsor,Cardiology,,
+2025-02-12,Provider,North America,0.04,11.0,20.6,31.5,Sponsor-to-Sponsor,General,,
+2025-02-27,Provider,Asia-Pacific,0.614,9.4,19.9,29.3,Carve-out,Plastic Surgery,,
+2025-04-21,Provider,North America,0.063,8.5,21.4,29.8,Buyout,Behavioral Health,,
+2025-03-05,Provider,Asia-Pacific,0.042,6.4,24.1,30.5,Buyout,Plastic Surgery,,
+2025-03-06,Provider,Europe,0.206,10.2,12.0,22.2,Sponsor-to-Sponsor,General,,
+2025-11-18,Provider,Europe,0.266,8.7,15.7,24.3,Carve-out,Nephrology,,
+2025-08-26,Provider,Europe,0.036,9.8,9.9,19.7,Take-Private,Plastic Surgery,,
+2025-04-18,Provider,Asia-Pacific,0.05,11.1,21.2,32.4,Sponsor-to-Sponsor,Cardiology,,
+2025-11-24,Provider,North America,0.174,11.2,24.1,35.2,Buyout,Behavioral Health,,
+2025-08-25,Provider,Europe,0.024,6.2,18.9,25.1,Buyout,Behavioral Health,,
+2025-01-06,Provider,North America,0.013,10.4,20.5,30.9,Take-Private,Nephrology,,
+2025-08-07,Provider,North America,1.137,12.6,15.0,27.6,Sponsor-to-Sponsor,Plastic Surgery,,
+2025-03-03,Provider,North America,0.035,14.6,10.1,24.7,Sponsor-to-Sponsor,Behavioral Health,,
+2025-05-03,Provider,Europe,0.173,15.1,18.1,33.2,Buyout,Nephrology,,
+2025-10-11,Provider,Europe,0.143,4.1,9.7,13.8,Carve-out,Behavioral Health,,
+2025-07-29,Provider,North America,0.131,12.2,22.9,35.0,Buyout,Cardiology,,
+2025-07-06,Provider,Asia-Pacific,0.05,10.2,17.5,27.7,Take-Private,Plastic Surgery,,
+2025-11-10,Provider,Europe,0.003,11.5,9.4,20.9,Buyout,General,,
+2025-07-19,Provider,Europe,0.013,8.2,8.9,17.2,Buyout,Nephrology,,
+2025-06-14,Provider,North America,0.103,10.1,13.3,23.5,Take-Private,Plastic Surgery,,
+2025-06-20,Provider,North America,0.331,7.9,16.5,24.4,Buyout,Nephrology,,
+2025-09-30,Provider,North America,0.253,4.1,14.3,18.4,Buyout,General,,
+2025-06-04,Provider,Europe,0.178,9.2,12.2,21.4,Carve-out,Behavioral Health,,
+2025-06-19,Provider,North America,0.362,9.6,10.3,19.9,Buyout,Plastic Surgery,,
+2025-01-27,Provider,Asia-Pacific,0.022,9.0,18.2,27.1,Buyout,Nephrology,,
+2025-07-12,Provider,North America,0.154,8.5,11.8,20.3,Sponsor-to-Sponsor,General,,
+2025-07-13,Provider,North America,0.023,10.2,19.2,29.5,Sponsor-to-Sponsor,Plastic Surgery,,
+2025-07-09,Provider,Europe,0.058,6.7,13.2,19.9,Sponsor-to-Sponsor,Plastic Surgery,,
+2025-05-14,Provider,North America,0.388,10.8,20.1,30.9,Buyout,General,,
+2025-03-19,Provider,Europe,0.039,12.1,10.3,22.4,Carve-out,Plastic Surgery,,
+2025-07-13,Provider,North America,2.983,12.7,7.5,20.2,Buyout,General,,
+2025-09-28,Provider,North America,0.308,16.7,17.2,33.9,Sponsor-to-Sponsor,Behavioral Health,,
+2025-05-03,Provider,North America,0.095,13.2,15.2,28.4,Buyout,Plastic Surgery,,
+2025-09-08,Provider,Asia-Pacific,0.994,5.3,9.4,14.8,Buyout,General,,
+2025-07-28,Provider,North America,0.818,9.9,19.1,29.0,Sponsor-to-Sponsor,Cardiology,,
+2025-06-30,Provider,North America,0.138,9.8,15.6,25.3,Sponsor-to-Sponsor,Plastic Surgery,,
+2025-02-06,Provider,North America,3.412,10.4,22.7,33.1,Carve-out,Behavioral Health,,
+2025-10-19,Provider,Europe,0.136,12.9,20.8,33.8,Sponsor-to-Sponsor,Plastic Surgery,,
+2025-03-04,Provider,North America,0.021,7.6,8.8,16.5,Buyout,Cardiology,,
+2025-04-17,Provider,North America,0.199,9.0,17.1,26.2,Sponsor-to-Sponsor,Plastic Surgery,,
+2025-03-19,Provider,North America,0.007,13.2,15.3,28.4,Buyout,Behavioral Health,,
+2025-09-14,Provider,Europe,0.305,13.1,20.9,34.0,Carve-out,Behavioral Health,,
+2025-08-11,Provider,North America,0.017,14.7,7.5,22.3,Buyout,Nephrology,,
+2025-08-06,Medtech,North America,0.281,2.7,13.7,16.4,Carve-out,Renal Care (Vantive),,
+2025-08-13,Medtech,Europe,0.04,10.5,8.8,19.3,Take-Private,Medtech General,,
+2025-05-20,Medtech,Asia-Pacific,0.955,12.0,15.1,27.1,Sponsor-to-Sponsor,Medtech General,,
+2025-02-09,Medtech,North America,0.08,7.6,14.9,22.6,Take-Private,Medtech General,,
+2025-03-14,Medtech,Europe,0.423,9.5,17.0,26.5,Buyout,Medtech General,,
+2025-03-18,Medtech,Europe,0.049,16.2,24.9,41.1,Sponsor-to-Sponsor,Medtech General,,
+2025-04-07,Medtech,North America,1.163,5.9,14.7,20.6,Buyout,Medtech General,,
+2025-05-12,Medtech,Europe,0.357,12.5,16.7,29.2,Buyout,Medtech General,,
+2025-04-26,Medtech,Europe,0.115,8.8,17.3,26.1,Sponsor-to-Sponsor,Medtech General,,
+2025-03-12,Medtech,Asia-Pacific,0.134,6.8,13.8,20.6,Buyout,Medtech General,,
+2025-01-11,Medtech,Europe,0.143,10.8,7.2,18.0,Buyout,Medtech General,,
+2025-07-25,Medtech,Asia-Pacific,0.063,3.0,10.6,13.6,Buyout,Medtech General,,
+2025-03-14,Medtech,North America,0.194,11.7,22.8,34.5,Buyout,Medtech General,,
+2025-10-01,Medtech,Europe,0.027,6.7,14.9,21.6,Buyout,Medtech General,,
+2025-07-05,Medtech,Europe,0.306,15.2,17.5,32.6,Buyout,Medtech General,,
+2025-10-18,Medtech,Europe,2.74,12.3,5.6,17.9,Sponsor-to-Sponsor,Medtech General,,
+2025-03-22,Medtech,Europe,0.382,17.1,14.4,31.5,Carve-out,Medtech General,,
+2025-05-19,Medtech,North America,0.055,6.4,15.4,21.8,Take-Private,Medtech General,,
+2025-11-03,Medtech,North America,1.283,7.8,9.7,17.6,Buyout,Medtech General,,
+2025-04-18,Medtech,North America,0.02,10.3,15.9,26.2,Sponsor-to-Sponsor,Medtech General,,
+2025-04-16,Medtech,North America,0.018,2.6,12.7,15.4,Buyout,Medtech General,,
+2025-08-09,Medtech,Asia-Pacific,0.233,12.5,9.8,22.3,Take-Private,Medtech General,,
+2025-09-12,Medtech,North America,0.037,14.8,9.9,24.7,Sponsor-to-Sponsor,Medtech General,,
+2025-08-21,Medtech,Asia-Pacific,0.174,9.3,14.8,24.1,Sponsor-to-Sponsor,Medtech General,,
+2025-11-19,Medtech,North America,0.154,12.4,11.8,24.2,Buyout,Medtech General,,
+2025-11-01,Medtech,Asia-Pacific,0.179,12.6,20.2,32.8,Buyout,Medtech General,,
+2025-05-23,Medtech,Europe,0.287,10.3,29.7,40.0,Take-Private,Medtech General,,
+2025-10-24,Medtech,Europe,0.038,3.2,11.0,14.2,Buyout,Medtech General,,
+2025-02-06,Medtech,Europe,0.007,7.9,18.3,26.2,Sponsor-to-Sponsor,Medtech General,,
+2025-04-04,Medtech,Europe,0.189,14.8,11.2,26.0,Carve-out,Medtech General,,
+2025-01-01,Medtech,Europe,0.854,15.6,16.2,31.7,Buyout,Medtech General,,
+2025-05-24,Medtech,North America,0.014,10.3,18.3,28.6,Carve-out,Medtech General,,
+2025-10-11,Medtech,Europe,0.214,15.7,10.9,26.7,Sponsor-to-Sponsor,Medtech General,,
+2025-01-13,Medtech,North America,0.197,8.9,17.1,26.0,Buyout,Medtech General,,
+2025-08-08,Medtech,Europe,0.421,11.8,15.5,27.3,Sponsor-to-Sponsor,Medtech General,,
+2025-06-17,Medtech,Asia-Pacific,0.009,9.1,14.5,23.5,Carve-out,Medtech General,,
+2025-09-21,Medtech,North America,0.01,10.8,19.7,30.5,Buyout,Medtech General,,
+2025-03-29,Medtech,North America,0.474,8.7,15.0,23.7,Sponsor-to-Sponsor,Medtech General,,
+2025-09-27,Medtech,North America,0.539,9.4,10.7,20.2,Buyout,Medtech General,,
+2025-05-04,Medtech,North America,0.138,7.4,17.4,24.8,Sponsor-to-Sponsor,Medtech General,,
+2025-03-29,Medtech,Europe,0.185,6.8,14.6,21.4,Sponsor-to-Sponsor,Medtech General,,
+2025-05-02,Medtech,North America,0.099,16.2,19.2,35.4,Sponsor-to-Sponsor,Medtech General,,
+2025-05-04,Medtech,North America,0.03,9.2,15.5,24.7,Take-Private,Medtech General,,
+2025-07-27,Medtech,North America,0.03,9.2,12.1,21.3,Sponsor-to-Sponsor,Medtech General,,
+2025-05-07,Medtech,Europe,0.449,14.4,16.5,30.9,Sponsor-to-Sponsor,Medtech General,,
+2025-10-07,Medtech,North America,0.461,9.3,15.3,24.6,Sponsor-to-Sponsor,Medtech General,,
+2025-09-29,Medtech,North America,18.3,13.4,21.9,35.4,Take-Private,Women's Health (Hologic),,
+2025-01-27,Medtech,Europe,0.156,9.1,25.7,34.8,Sponsor-to-Sponsor,Medtech General,,
+2025-08-06,Medtech,Europe,1.29,8.4,14.8,23.2,Buyout,Medtech General,,
+2025-02-28,Medtech,Europe,0.467,8.8,11.7,20.6,Carve-out,Medtech General,,
+2025-03-05,Medtech,Asia-Pacific,0.334,8.9,14.4,23.4,Buyout,Medtech General,,
+2025-08-21,Medtech,Europe,1.279,6.5,7.9,14.4,Sponsor-to-Sponsor,Medtech General,,
+2025-05-02,Medtech,North America,0.069,12.5,1.2,13.7,Buyout,Medtech General,,
+2025-04-27,Medtech,North America,0.57,8.9,17.7,26.6,Take-Private,Medtech General,,
+2025-01-12,Medtech,Asia-Pacific,0.008,12.5,5.3,17.8,Take-Private,Medtech General,,
+2025-01-02,Medtech,Europe,0.022,8.9,15.3,24.2,Buyout,Medtech General,,
+2025-10-22,Medtech,North America,0.087,4.6,17.6,22.2,Sponsor-to-Sponsor,Medtech General,,
+2025-09-06,Medtech,Asia-Pacific,0.139,10.2,11.3,21.5,Buyout,Medtech General,,
+2025-06-23,Medtech,Europe,0.618,14.9,10.3,25.2,Take-Private,Medtech General,,
+2025-05-20,Medtech,North America,0.232,11.7,2.8,14.5,Sponsor-to-Sponsor,Medtech General,,
+2025-11-25,Medtech,North America,0.055,11.3,16.6,27.9,Take-Private,Medtech General,,
+2025-08-15,Medtech,North America,0.887,6.8,10.1,16.9,Buyout,Medtech General,,
+2025-05-06,Medtech,Europe,0.13,7.5,11.3,18.8,Buyout,Medtech General,,
+2025-07-16,Medtech,North America,0.122,9.0,18.0,27.1,Buyout,Medtech General,,
+2025-09-04,Medtech,Asia-Pacific,0.048,9.2,19.0,28.2,Buyout,Medtech General,,
+2025-08-16,Medtech,North America,0.01,10.1,15.1,25.1,Buyout,Medtech General,,
+2025-10-03,Medtech,Asia-Pacific,0.032,12.7,7.7,20.4,Buyout,Medtech General,,
+2025-08-23,Medtech,Europe,0.357,10.9,11.6,22.5,Take-Private,Medtech General,,
+2025-04-17,Medtech,North America,0.033,8.6,13.9,22.5,Buyout,Medtech General,,
+2025-04-18,Medtech,Europe,0.089,12.4,19.1,31.6,Buyout,Medtech General,,
+2025-05-31,Medtech,North America,0.115,12.2,12.1,24.3,Sponsor-to-Sponsor,Medtech General,,
+2025-03-04,Medtech,Europe,2.621,11.7,16.3,28.0,Buyout,Medtech General,,
+2025-09-19,Medtech,Europe,0.163,11.9,20.7,32.6,Sponsor-to-Sponsor,Medtech General,,
+2025-10-01,Medtech,Asia-Pacific,0.1,11.9,13.7,25.6,Buyout,Medtech General,,
+2025-09-30,Medtech,North America,0.225,6.4,13.8,20.2,Take-Private,Medtech General,,
+2025-11-16,Medtech,North America,0.004,16.4,14.6,31.0,Buyout,Medtech General,,
+2025-10-08,Medtech,Asia-Pacific,0.142,14.0,28.0,42.0,Sponsor-to-Sponsor,Medtech General,,
+2025-09-12,Medtech,Asia-Pacific,0.052,11.7,7.6,19.3,Buyout,Medtech General,,
+2025-08-23,Medtech,Europe,0.097,8.1,12.8,20.9,Sponsor-to-Sponsor,Medtech General,,
+2025-10-05,Medtech,North America,0.048,8.8,19.0,27.8,Carve-out,Medtech General,,
+2025-02-14,Medtech,North America,0.024,8.9,7.2,16.1,Sponsor-to-Sponsor,Medtech General,,
+2025-03-29,Medtech,North America,0.024,10.5,15.7,26.2,Buyout,Medtech General,,
+2025-08-27,Medtech,North America,0.734,5.2,16.7,21.9,Sponsor-to-Sponsor,Medtech General,,
+2025-06-07,Medtech,Europe,0.068,16.2,10.5,26.6,Buyout,Medtech General,,
+2025-05-22,Medtech,North America,0.25,12.6,21.6,34.3,Buyout,Medtech General,,
+2025-09-29,Medtech,North America,0.103,15.6,15.1,30.7,Buyout,Medtech General,,
+2025-08-31,Medtech,North America,0.061,12.9,9.6,22.5,Buyout,Medtech General,,
+2025-01-07,Medtech,North America,0.051,12.9,13.5,26.4,Sponsor-to-Sponsor,Medtech General,,
+2025-06-23,HCIT,North America,0.059,19.0,43.9,62.8,Sponsor-to-Sponsor,Payer IT,,False
+2025-04-18,HCIT,North America,0.009,26.0,39.5,57.5,Take-Private,Payer IT,,True
+2025-06-25,HCIT,North America,0.119,32.3,30.9,55.2,Buyout,Life Sciences IT,,True
+2025-07-24,HCIT,Asia-Pacific,0.141,34.2,44.7,70.9,Sponsor-to-Sponsor,RCM (India Focus),,True
+2025-07-12,HCIT,North America,0.383,12.7,43.0,55.7,Take-Private,Life Sciences IT,,False
+2025-10-14,HCIT,Asia-Pacific,0.464,10.5,31.6,42.1,Sponsor-to-Sponsor,RCM (India Focus),,False
+2025-01-09,HCIT,Europe,0.162,12.0,37.6,49.6,Take-Private,Provider IT,,False
+2025-03-08,HCIT,Europe,0.394,20.6,40.1,60.7,Sponsor-to-Sponsor,Payer IT,,False
+2025-06-09,HCIT,North America,0.752,15.3,45.1,60.4,Buyout,Payer IT,,False
+2025-03-09,HCIT,North America,0.425,26.2,43.0,69.2,Buyout,Provider IT,,False
+2025-06-15,HCIT,Europe,0.198,27.4,46.6,66.0,Sponsor-to-Sponsor,Payer IT,,True
+2025-05-08,HCIT,North America,0.296,17.3,31.7,49.0,Buyout,Life Sciences IT,,False
+2025-10-17,HCIT,North America,0.065,33.6,36.2,61.7,Buyout,Payer IT,,True
+2025-04-01,HCIT,North America,0.044,23.5,41.1,56.6,Take-Private,Payer IT,,True
+2025-05-04,HCIT,North America,0.071,20.0,42.5,62.5,Sponsor-to-Sponsor,Life Sciences IT,,False
+2025-07-07,HCIT,North America,0.079,26.2,38.9,65.1,Sponsor-to-Sponsor,Life Sciences IT,,False
+2025-05-24,HCIT,North America,0.925,36.0,41.7,69.7,Buyout,Life Sciences IT,,True
+2025-03-20,HCIT,Europe,0.333,34.0,38.8,64.7,Take-Private,Life Sciences IT,,True
+2025-04-29,HCIT,North America,0.011,19.2,39.3,58.5,Buyout,Payer IT,,False
+2025-11-13,HCIT,Europe,0.017,35.6,46.6,74.2,Buyout,Provider IT,,True
+2025-01-06,HCIT,North America,0.273,18.3,30.0,48.3,Buyout,Provider IT,,False
+2025-10-04,HCIT,North America,0.167,21.5,38.8,60.2,Take-Private,Life Sciences IT,,False
+2025-09-13,HCIT,Asia-Pacific,0.154,19.9,41.2,61.2,Take-Private,RCM (India Focus),,False
+2025-03-11,HCIT,Europe,0.189,20.7,33.2,53.9,Buyout,Life Sciences IT,,False
+2025-01-11,HCIT,North America,0.252,20.3,40.7,61.0,Sponsor-to-Sponsor,Provider IT,,False
+2025-08-10,HCIT,North America,0.368,19.1,41.7,60.8,Carve-out,Provider IT,,False
+2025-10-15,HCIT,North America,0.063,38.2,40.1,70.2,Take-Private,Life Sciences IT,,True
+2025-08-19,HCIT,Europe,0.208,17.4,47.2,64.6,Buyout,Life Sciences IT,,False
+2025-03-14,HCIT,Europe,0.127,14.0,38.7,52.7,Buyout,Payer IT,,False
+2025-01-02,HCIT,North America,0.67,18.5,43.6,54.1,Carve-out,Life Sciences IT,,True
+2025-04-13,HCIT,Asia-Pacific,0.298,17.9,24.6,34.5,Buyout,RCM (India Focus),,True
+2025-06-25,HCIT,North America,0.227,14.5,44.9,59.3,Buyout,Provider IT,,False
+2025-08-22,HCIT,Europe,0.045,34.4,34.4,60.8,Sponsor-to-Sponsor,Life Sciences IT,,True
+2025-05-14,HCIT,North America,0.078,21.2,38.2,59.4,Carve-out,Life Sciences IT,,False
+2025-03-10,HCIT,North America,0.023,20.7,45.4,66.1,Sponsor-to-Sponsor,Life Sciences IT,,False
+2025-03-24,HCIT,North America,0.047,33.4,40.4,65.8,Sponsor-to-Sponsor,Provider IT,,True
+2025-04-05,HCIT,Europe,0.106,22.3,43.7,58.0,Sponsor-to-Sponsor,Payer IT,,True
+2025-05-21,HCIT,Europe,0.435,28.6,37.7,58.3,Buyout,Provider IT,,True
+2025-09-14,HCIT,North America,0.014,24.6,41.9,58.4,Take-Private,Payer IT,,True
+2025-04-09,HCIT,North America,0.016,19.4,42.6,54.0,Take-Private,Payer IT,,True
+2025-07-15,HCIT,North America,0.114,16.4,34.2,50.6,Take-Private,Life Sciences IT,,False
+2025-03-11,HCIT,North America,0.537,30.4,39.9,70.3,Buyout,Life Sciences IT,,False
+2025-10-08,HCIT,Europe,0.209,33.2,38.6,63.8,Sponsor-to-Sponsor,Life Sciences IT,,True
+2025-08-25,HCIT,North America,0.001,21.0,47.8,68.7,Take-Private,Life Sciences IT,,False
+2025-03-09,HCIT,North America,0.024,27.3,50.8,70.2,Buyout,Payer IT,,True
+2025-03-29,HCIT,North America,0.112,18.8,38.5,57.4,Buyout,Provider IT,,False
+2025-11-18,HCIT,Asia-Pacific,0.07,17.7,45.2,62.9,Sponsor-to-Sponsor,RCM (India Focus),,False
+2025-07-07,HCIT,North America,0.487,9.6,41.5,51.1,Buyout,Provider IT,,False
+2025-06-20,HCIT,North America,0.973,17.7,36.8,54.5,Sponsor-to-Sponsor,Provider IT,,False
+2025-05-02,HCIT,North America,0.262,16.6,37.7,54.3,Buyout,Provider IT,,False
+2025-04-14,HCIT,Europe,0.079,30.1,37.5,59.6,Sponsor-to-Sponsor,Payer IT,,True
+2025-02-27,HCIT,North America,0.037,28.9,45.8,66.7,Buyout,Payer IT,,True
+2025-07-22,HCIT,North America,0.089,16.3,30.4,46.7,Sponsor-to-Sponsor,Life Sciences IT,,False
+2025-07-24,HCIT,North America,0.28,28.0,42.4,62.4,Sponsor-to-Sponsor,Provider IT,,True
+2025-02-04,HCIT,North America,2.33,25.0,44.4,69.4,Sponsor-to-Sponsor,Life Sciences IT,,False
+2025-01-04,HCIT,Europe,0.033,9.2,39.5,48.7,Sponsor-to-Sponsor,Life Sciences IT,,False
+2025-10-13,HCIT,Europe,0.715,21.3,42.9,64.2,Take-Private,Provider IT,,False
+2025-02-27,HCIT,North America,0.156,16.9,41.2,58.1,Sponsor-to-Sponsor,Provider IT,,False
+2025-10-27,HCIT,Europe,0.697,28.9,42.0,62.9,Buyout,Life Sciences IT,,True
+2025-07-22,HCIT,North America,0.134,37.5,36.8,66.3,Sponsor-to-Sponsor,Provider IT,,True
+2025-01-06,HCIT,Asia-Pacific,0.003,25.6,44.3,61.9,Sponsor-to-Sponsor,RCM (India Focus),,True
+2025-03-11,HCIT,Europe,0.014,7.3,45.8,53.0,Buyout,Payer IT,,False
+2025-07-28,HCIT,North America,2.535,22.7,38.1,60.7,Take-Private,Payer IT,,False
+2025-04-07,HCIT,North America,2.467,24.4,46.1,70.4,Carve-out,Provider IT,,False
+2025-04-06,HCIT,Asia-Pacific,0.127,11.3,28.1,39.4,Sponsor-to-Sponsor,RCM (India Focus),,False
+2025-05-27,HCIT,North America,1.928,29.5,31.4,60.8,Buyout,Provider IT,,False
+2025-05-03,HCIT,Asia-Pacific,0.19,22.8,32.6,55.4,Buyout,RCM (India Focus),,False
+2025-01-13,HCIT,Europe,0.042,40.4,49.3,81.7,Buyout,Life Sciences IT,,True
+2025-11-25,HCIT,North America,0.425,26.7,47.5,66.2,Sponsor-to-Sponsor,Provider IT,,True
+2025-06-16,HCIT,Europe,0.007,12.1,30.5,42.6,Sponsor-to-Sponsor,Payer IT,,False
+2025-03-20,HCIT,North America,1.603,26.9,35.2,62.1,Sponsor-to-Sponsor,Provider IT,,False
+2025-07-26,HCIT,Europe,0.006,18.2,42.5,60.7,Sponsor-to-Sponsor,Life Sciences IT,,False
+2025-10-21,HCIT,North America,0.433,16.2,38.8,55.0,Buyout,Payer IT,,False
+2025-04-13,HCIT,Europe,0.026,20.9,39.9,60.8,Buyout,Payer IT,,False
+2025-05-17,HCIT,Europe,0.006,15.1,34.8,49.9,Sponsor-to-Sponsor,Payer IT,,False
+2025-03-24,HCIT,Europe,0.025,24.9,39.2,56.1,Sponsor-to-Sponsor,Provider IT,,True
+2025-10-17,HCIT,Europe,0.191,35.4,36.1,63.5,Sponsor-to-Sponsor,Provider IT,,True
+2025-03-03,HCIT,North America,1.645,21.7,33.0,54.7,Sponsor-to-Sponsor,Payer IT,,False
+2025-05-03,HCIT,North America,0.133,7.9,50.0,57.9,Buyout,Life Sciences IT,,False
+2025-07-01,HCIT,Europe,1.253,29.5,33.0,54.5,Sponsor-to-Sponsor,Life Sciences IT,,True
+2025-02-13,HCIT,North America,0.58,31.9,45.4,69.3,Buyout,Life Sciences IT,,True
+2025-04-02,HCIT,North America,0.018,27.1,37.2,56.3,Take-Private,Provider IT,,True
+2025-09-20,HCIT,North America,0.106,28.8,35.5,56.4,Sponsor-to-Sponsor,Provider IT,,True
+2025-08-01,HCIT,Europe,0.385,25.9,42.9,68.8,Sponsor-to-Sponsor,Provider IT,,False
+2025-07-15,HCIT,North America,0.023,5.1,40.9,46.0,Sponsor-to-Sponsor,Payer IT,,False
+2025-08-30,HCIT,Europe,1.012,23.0,38.5,61.6,Sponsor-to-Sponsor,Life Sciences IT,,False
+2025-09-02,HCIT,Asia-Pacific,0.768,30.0,46.9,68.9,Sponsor-to-Sponsor,RCM (India Focus),,True
