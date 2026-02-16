@@ -9,7 +9,7 @@
 
 This repository contains a **stochastic market simulation engine** designed to model the global Healthcare Private Equity landscape for 2026. 
 
-Based on the macro-financial constraints of the **Bain & Company Global Healthcare Private Equity Report 2026**, this project reconstructs the statistical distribution of **$191 Billion** in deal value across **445 transactions**. It moves beyond simple data visualization by simulating complex market behaviors, including the "Rule of 60" valuation framework for Healthcare IT and the geopolitical risk discounts impacting Asia-Pacific Biopharma.
+Based on the macro-financial constraints of the **Bain & Company Data**, this project reconstructs the statistical distribution of **$191 Billion** in deal value across **445 transactions**. It moves beyond simple data visualization by simulating complex market behaviors, including the "Rule of 60" valuation framework for Healthcare IT and the geopolitical risk discounts impacting Asia-Pacific Biopharma.
 
 **Key Objective:** To demonstrate the application of Python-based quantitative modeling to synthesize proprietary strategic insights and valuation frameworks used in top-tier management consulting and private equity.
 
